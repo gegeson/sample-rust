@@ -1,2 +1,1 @@
 # sample-rust
-# sample-rust
